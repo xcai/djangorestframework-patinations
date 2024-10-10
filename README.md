@@ -2,9 +2,8 @@
 Other paginations based on Django REST framework
 
 
-![PyPI - Version](https://img.shields.io/pypi/v/django-admin-honeypot-2024)
-![PyPI - Downloads](https://img.shields.io/pypi/dw/django-admin-honeypot-2024)
-![GitHub Repo stars](https://img.shields.io/github/stars/xcai/django-admin-honeypot)
+![PyPI - Version](https://img.shields.io/pypi/v/drf-patinations)
+![PyPI - Downloads](https://img.shields.io/pypi/dw/drf-patinations)
 
 * **Author**: [xcai](https://github.com/xcai/drf-patinations)
 * **Version**: 1.0.0
